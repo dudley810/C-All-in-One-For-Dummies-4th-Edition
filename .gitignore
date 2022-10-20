@@ -1,0 +1,16 @@
+.vs
+*.suo
+*.user
+x64
+x86
+bin
+obj
+*.pdb
+__history
+__recovery
+*.dproj.local
+*.identcache
+*.stat
+/ConfWeb/*.user
+# dependencies
+node_modules
